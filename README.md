@@ -1,6 +1,6 @@
 This is a project from the Front End Developer course at Scrimba.
 
-The goal is to recreate Instagram's UI, as shown in this Figma draft - https://www.figma.com/design/MFeXgJ7Dqg6JfyxIn3ffFQ/Oldagram-(Copy)?node-id=0-1&p=f&t=ogSpZOt7T0PNJ8JT-0
+The goal is to recreate Instagram's UI, as shown in this Figma draft - [Link Here, please make a draft if you're interested!](https://www.figma.com/design/h0MKma9TTWzGOMQ9Ia6ROW/Oldagram?node-id=0-1&p=f&t=CY0QJwafbNp15wcj-0)
 
 Goals for this project:
 - Given only the images, the html containing the logo, and a javascript file containing the post data, create the UI as shown on Figma
